@@ -1,6 +1,8 @@
 # NeuroLume
 ## 🚀 Introduction
-NeuroLume is a hyperdimensional, EEG-reactive, procedurally generated universe. It is an open-source, free, subscription-required device screensaver customization app that incorporates gamification, brain-hacking technologies, ultra-dimensional reasoning, and projections. Designed for individuals seeking peace of mind, serenity, and creativity, NeuroLume serves as an interactive bio-reactive cosmic interface that dynamically adapts to user input.
+**NeuroLume** is a **living, ever-changing digital universe** that reacts to your mind. It’s a **customizable, interactive screensaver** that blends **creativity, focus, and relaxation** into a mesmerizing visual experience.  
+
+Designed for those who seek **calm, inspiration, and mental clarity**, NeuroLume adapts in real time, creating a unique, immersive world that reflects your thoughts and energy. It’s more than just a screen—it’s a **gateway to a cosmic, dreamlike space** where structure meets imagination, helping you explore and shape your inner world effortlessly.
 
 ## 🌌 Features
 
