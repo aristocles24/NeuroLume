@@ -93,7 +93,7 @@ PrimeRealm/
 4. Open a pull request.
 
 ### **Bug Reports & Feature Requests**
-- Open an issue on [GitHub Issues](https://github.com/yourusername/PrimeRealm/issues)
+- Open an issue on [GitHub Issues](https://github.com/aristocles24/NueroLume/issues)
 
 ---
 ## ⚖️ License
@@ -108,8 +108,8 @@ This project is licensed under the MIT License.
 ---
 ## 🌟 Join the Movement
 ### **Follow the Journey:**
-- GitHub: [PrimeRealm Repository](https://github.com/yourusername/PrimeRealm)
-- Twitter: [@PrimeRealmAI](https://twitter.com/PrimeRealmAI)
-- Discord: [Join the Community](https://discord.gg/yourserver)
+- GitHub: [PrimeRealm Repository](https://github.com/aristocles24/NueroLume)
+- Twitter: [@PrimeRealmAI](https://twitter.com//NueroLumeAI)
+- Discord: [Join the Community](https://discord.gg/NueroLumeAI)
 
 🚀 **PrimeRealm is more than an app. It's an evolution of digital consciousness.**
