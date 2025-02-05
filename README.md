@@ -1,6 +1,6 @@
 # NeuroLume
 **The Mind Forge**
-An immersive, gamified catalyst for creative expansion, heightened focus, and harmonious cognitive flow. It unites structured precision with boundless imagination, empowering individuals to shape, explore, and refine their inner landscapes dynamically.
+### An immersive, gamified catalyst for creative expansion, heightened focus, and harmonious cognitive flow. It unites structured precision with boundless imagination, empowering individuals to shape, explore, and refine their inner landscapes dynamically.
 
 ## 🚀 Introduction
 NeuroLume is a hyperdimensional, EEG-reactive, procedurally generated universe. It is an open-source, free, subscription-required device screensaver customization app that incorporates gamification, brain-hacking technologies, ultra-dimensional reasoning, and projections. Designed for individuals seeking peace of mind, serenity, and creativity, NeuroLume serves as an interactive bio-reactive cosmic interface that dynamically adapts to user input.
