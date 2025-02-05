@@ -2,7 +2,7 @@
 The Mind Forge A gamified experience enhancer designed to amplify creativity, focus, and cognitive balance for autistic, bipolar, and schizophrenic minds. It merges structured logic with fluid creativity, allowing players to explore, create, and regulate their mental states dynamically.
 
 ## 🚀 Introduction
-PrimeRealm is a hyperdimensional, EEG-reactive, procedurally generated universe. It is an open-source, free, subscription-required device screensaver customization app that incorporates gamification, brain-hacking technologies, ultra-dimensional reasoning, and projections. Designed for individuals seeking peace of mind, serenity, and creativity, PrimeRealm serves as an interactive bio-reactive cosmic interface that dynamically adapts to user input.
+NeuroLume is a hyperdimensional, EEG-reactive, procedurally generated universe. It is an open-source, free, subscription-required device screensaver customization app that incorporates gamification, brain-hacking technologies, ultra-dimensional reasoning, and projections. Designed for individuals seeking peace of mind, serenity, and creativity, NeuroLume serves as an interactive bio-reactive cosmic interface that dynamically adapts to user input.
 
 ## 🌌 Features
 
@@ -42,8 +42,8 @@ PrimeRealm is a hyperdimensional, EEG-reactive, procedurally generated universe.
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/PrimeRealm.git
-cd PrimeRealm
+git clone https://github.com/yourusername/NeuroLume.git
+cd NeuroLume
 ```
 
 ### **Run the Application (Local Development)**
@@ -67,7 +67,7 @@ gcp_deploy.sh
 ---
 ## 📂 Project Structure
 ```
-PrimeRealm/
+NeuroLume/
 │── docs/
 │── src/
 │   ├── frontend/
@@ -108,8 +108,8 @@ This project is licensed under the MIT License.
 ---
 ## 🌟 Join the Movement
 ### **Follow the Journey:**
-- GitHub: [PrimeRealm Repository](https://github.com/aristocles24/NueroLume)
-- Twitter: [@PrimeRealmAI](https://twitter.com//NueroLumeAI)
+- GitHub: [NeuroLume Repository](https://github.com/aristocles24/NueroLume)
+- Twitter: [@NeuroLumeAI](https://twitter.com//NueroLumeAI)
 - Discord: [Join the Community](https://discord.gg/NueroLumeAI)
 
-🚀 **PrimeRealm is more than an app. It's an evolution of digital consciousness.**
+🚀 **NeuroLume is more than an app. It's an evolution of digital consciousness.**
