@@ -5,7 +5,7 @@
 Designed for those who seek **calm, inspiration, and mental clarity**, NeuroLume adapts in real time, creating a unique, immersive world that reflects your thoughts and energy. It’s more than just a screen—it’s a **gateway to a cosmic, dreamlike space** where structure meets imagination, helping you explore and shape your inner world effortlessly.
 
 
-This screenshot captures the dashboard's performance in real-time:
+### This screenshot captures the dashboard's performance in real-time:
 <img src="https://github.com/aristocles24/NeuroLume/blob/main/LiveSensoryAnalyticDashboard-snapshot" width="300">
 
 ## 🌌 Features
