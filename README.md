@@ -1,6 +1,6 @@
 # NeuroLume
 ## 🚀 Introduction
-**NeuroLume** is a **living, ever-changing digital universe** that reacts to your mind. It’s a **customizable, interactive screensaver** that blends **creativity, focus, and relaxation** into a mesmerizing visual experience.  
+**[NeuroLume](https://dascient.com/neurolume)** is a **living, ever-changing digital universe** that reacts to your mind. It’s a **customizable, interactive screensaver** that blends **creativity, focus, and relaxation** into a mesmerizing visual experience.  
 
 Designed for those who seek **calm, inspiration, and mental clarity**, NeuroLume adapts in real time, creating a unique, immersive world that reflects your thoughts and energy. It’s more than just a screen—it’s a **gateway to a cosmic, dreamlike space** where structure meets imagination, helping you explore and shape your inner world effortlessly.
 
